@@ -8,7 +8,6 @@ public class MyMaxAndMin {
        GetMinMax my = new GetMinMax(a);
        System.out.println(my.getMax());
        System.out.println(my.getMin());
-       Collections.max
 	}
 
 }
